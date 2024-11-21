@@ -1,0 +1,1865 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>CLUB Øresund</name>
+    <description/>
+    <Style id="icon-1899-DB4436-labelson">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>CLUB Øresund</name>
+      <Placemark>
+        <name>MJ’S Restaurang</name>
+        <description><![CDATA[Tilbud: Op til 25% rabat<br>url: https://www.oresundsbron.com/da/club/mjs]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Op til 25% rabat</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/mjs</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.9977304,55.6058046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Palm Tree Hotel, Sure Hotel Collection by Best Western</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 50% rabat på et ophold hos Palm Tree Hotel i Trelleborg.<br><br>url: https://www.oresundsbron.com/da/club/palm-tree-hotel]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du 50% rabat på et ophold hos Palm Tree Hotel i Trelleborg.
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/palm-tree-hotel</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.1559063,55.3737736,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Astrid Lindgrens Värld</name>
+        <description><![CDATA[Tilbud: Op til 40% rabat<br><br>url: https://www.oresundsbron.com/da/club/astrid-lindgrens-verden-hytte]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Op til 40% rabat
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/astrid-lindgrens-verden-hytte</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            15.8426876,57.6742381,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Åhus Seaside</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 25% på et ophold hos Åhus Seaside<br>url: https://www.oresundsbron.com/da/club/aahus-seaside]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du 25% på et ophold hos Åhus Seaside</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/aahus-seaside</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.3179785,55.9372112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yggdrasil Igloo Water Huts Skåne</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 20% rabat på et ophold for 2 hos Yggdrasil Igloo.<br>url: https://www.oresundsbron.com/da/club/yggdrasil-igloo]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du 20% rabat på et ophold for 2 hos Yggdrasil Igloo.</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/yggdrasil-igloo</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.5121319,55.9032784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Babyringen</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund sparer du op til 50% på udvalgte varer.<br>url: https://www.oresundsbron.com/da/club/babyringen]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund sparer du op til 50% på udvalgte varer.</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/babyringen</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.0513689,55.5659188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordbornholms Feriecenter / Rutsker Feriecenter</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund sparer du 20% på dit ophold<br><br>url: https://www.oresundsbron.com/da/club/nordbornholms-feriecenter]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund sparer du 20% på dit ophold
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/nordbornholms-feriecenter</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.7489026,55.2200007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RAVINEN Kulturhus</name>
+        <description><![CDATA[Tilbud: Som medlem af CLUB Øresund sparer du 20% på entréen til RAVINEN.<br>url: https://www.oresundsbron.com/da/club/ravinen-kulturhus]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Som medlem af CLUB Øresund sparer du 20% på entréen til RAVINEN.</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/ravinen-kulturhus</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.7971816,56.4472356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skånes Djurpark</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 30% rabat på entré (dagspass) til Skånes Djurpark i sensommeren og 20% rabat i efterårssæsonen.<br><br>url: https://www.oresundsbron.com/da/club/skanes-djurpark]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du 30% rabat på entré (dagspass) til Skånes Djurpark i sensommeren og 20% rabat i efterårssæsonen.
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/skanes-djurpark</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.5365293,55.9631734,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Hotel Öresund Conference & Spa]]></name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund sparer du op til 40% på Hotel Öresund<br>url: https://www.oresundsbron.com/da/club/hotel-oresund]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund sparer du op til 40% på Hotel Öresund</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/hotel-oresund</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.8255891,55.8685544,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Continental du Sud</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund sparer du op til 50% på et ophold hos Hotell Continental du Sud i Ystad.<br><br>url: https://www.oresundsbron.com/da/club/hotell-continental-du-sud]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund sparer du op til 50% på et ophold hos Hotell Continental du Sud i Ystad.
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/hotell-continental-du-sud</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.8218778,55.427917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Autogruppen Lund AB</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 20% rabat på service, værkstedsarbejde og reservedele hos<br>Autogruppen i Lund<br><br>url: https://www.oresundsbron.com/da/club/autogruppen]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du 20% rabat på service, værkstedsarbejde og reservedele hos
+Autogruppen i Lund
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/autogruppen</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.2202172,55.6923428,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bishops Arms - Savoy Malmö</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund sparer du 20% på varme retter på a la carte menuen<br>url: https://www.oresundsbron.com/da/club/the-bishops-arms-savoy]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund sparer du 20% på varme retter på a la carte menuen</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/the-bishops-arms-savoy</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.0003665,55.6076594,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hotel Stensson</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du op til 40% hos Hotel Stensson i Esløv samt gratis cykelleje<br><br>url: https://www.oresundsbron.com/da/club/hotel-stensson]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du op til 40% hos Hotel Stensson i Esløv samt gratis cykelleje
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/hotel-stensson</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.3036111,55.8383333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Falsterbo Photo Art Museum</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 20% rabat på entré<br><br>url: https://www.oresundsbron.com/da/club/falsterbo-photo-art-museum]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du 20% rabat på entré
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/falsterbo-photo-art-museum</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.8505103,55.3928655,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Malmö Opera</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 15% rabat på forestillinger hos Malmø Opera.<br>url: https://www.oresundsbron.com/da/club/malmo-opera]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du 15% rabat på forestillinger hos Malmø Opera.</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/malmo-opera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.996281,55.59639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sommarboden i Höllviken</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund sparer du 20% hos Sommarboden i Höllviken<br><br>url: https://www.oresundsbron.com/da/club/sommarboden-i-hoellviken]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund sparer du 20% hos Sommarboden i Höllviken
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/sommarboden-i-hoellviken</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.9504629,55.4166339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Smedjan i Getinge</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund sparer du 20% på hele sortimentet i butikken Smedjan i Getinge<br><br>url: https://www.oresundsbron.com/da/club/smedjan-i-getinge]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund sparer du 20% på hele sortimentet i butikken Smedjan i Getinge
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/smedjan-i-getinge</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.3120081,55.7630767,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SweOutlet</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund sparer du 25% på alle køb i SWE Outlet.<br><br>url: https://www.oresundsbron.com/da/club/swe-outlet]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund sparer du 25% på alle køb i SWE Outlet.
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/swe-outlet</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.0844201,55.640379,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SweOutlet</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund sparer du 25% på alle køb i SWE Outlet.<br><br>url: https://www.oresundsbron.com/da/club/swe-outlet]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund sparer du 25% på alle køb i SWE Outlet.
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/swe-outlet</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.9934618,55.7689862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SweOutlet</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund sparer du 25% på alle køb i SWE Outlet.<br><br>url: https://www.oresundsbron.com/da/club/swe-outlet]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund sparer du 25% på alle køb i SWE Outlet.
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/swe-outlet</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.1185942,56.0241669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SweOutlet</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund sparer du 25% på alle køb i SWE Outlet.<br><br>url: https://www.oresundsbron.com/da/club/swe-outlet]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund sparer du 25% på alle køb i SWE Outlet.
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/swe-outlet</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.7137452,57.1364125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rundan Boat Sightseeing in Malmö</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 20% rabat på en guidet tur med Rundan i Malmø<br><br>url: https://www.oresundsbron.com/da/club/rundan-sightseeing]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du 20% rabat på en guidet tur med Rundan i Malmø
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/rundan-sightseeing</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.0001119,55.6086481,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skissernas Museum</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 20% rabat på entré til Skissernas Museum.<br><br>url: oresundsbron.com/da/club/skissernas-museum]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du 20% rabat på entré til Skissernas Museum.
+</value>
+          </Data>
+          <Data name="url">
+            <value>oresundsbron.com/da/club/skissernas-museum</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.198142,55.707977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tykarpsgrottan - besöksgruva</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 20% rabat entré til Tykarpsgrottan<br><br>url: https://www.oresundsbron.com/da/club/tykarpsgrottan]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du 20% rabat entré til Tykarpsgrottan
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/tykarpsgrottan</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.825997,56.118359,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hotel Skansen</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 20% rabat på et ophold hos Skansen med ankomst søndag til torsdag:<br><br>url: https://www.oresundsbron.com/da/club/hotell-skansen-i-baastad]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du 20% rabat på et ophold hos Skansen med ankomst søndag til torsdag:
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/hotell-skansen-i-baastad</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.838423,56.4350649,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ängavallen</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du op til 50% rabat på et romantisk ophold hos Ängavallen.<br><br>url: https://www.oresundsbron.com/da/club/angavallen]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du op til 50% rabat på et romantisk ophold hos Ängavallen.
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/angavallen</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.0318336,55.4398616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Bosjökloster Slott & Trädgårdar]]></name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 25% rabat på entré til slotsområdet<br><br>url: https://www.oresundsbron.com/da/club/bosjokloster-slott]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du 25% rabat på entré til slotsområdet
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/bosjokloster-slott</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.5185645,55.8765423,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[The Lodge Resort & Honulele Spa]]></name>
+        <description><![CDATA[Tilbud: Du sparer 20% på dit ophold hos The Lodge med CLUB Øresund<br><br>url: https://www.oresundsbron.com/da/club/the-lodge]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Du sparer 20% på dit ophold hos The Lodge med CLUB Øresund
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/the-lodge</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.433949,55.63562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hotel Riviera Strand</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 20% rabat på et ophold hos Riviera Strand søndag-fredag.<br><br>url: https://www.oresundsbron.com/da/club/hotel-riviera-strand]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du 20% rabat på et ophold hos Riviera Strand søndag-fredag.
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/hotel-riviera-strand</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.8718487,56.4325204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Norrmans Castle</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 20% på en overnatning hos The Norrmans Castle.<br><br>url: https://www.oresundsbron.com/da/club/ophold-paa-hackeberga-slott]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du 20% på en overnatning hos The Norrmans Castle.
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/ophold-paa-hackeberga-slott</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.4284057,55.5802549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Radisson Blu Hotel Malmö</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du op til 27% rabat på et hotelophold inklusiv stor morgenmadsbuffet.<br><br>url: https://www.oresundsbron.com/da/club/radisson-blu-hotel-i-malmo]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du op til 27% rabat på et hotelophold inklusiv stor morgenmadsbuffet.
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/radisson-blu-hotel-i-malmo</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.0077429,55.6076682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ystad Saltsjöbad</name>
+        <description><![CDATA[Tilbud: Op til 30% rabat.<br><br>url: https://www.oresundsbron.com/da/club/ystad-saltsjobad]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Op til 30% rabat.
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/ystad-saltsjobad</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.8489,55.4254054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Torekov Hotell</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 20% rabat på "Torekovs Spaklassiker" med ankomst søndag til fredag.<br><br>url: https://www.oresundsbron.com/da/club/torekov-hotell]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value><![CDATA[Med CLUB Øresund får du 20% rabat på "Torekovs Spaklassiker" med ankomst søndag til fredag.
+]]></value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/torekov-hotell</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.632879,56.410833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jump Trampolinpark i Malmö</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du to billetter for ens pris hos JUMP i Malmø<br><br>url: https://www.oresundsbron.com/da/club/jump-trampolinpark]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du to billetter for ens pris hos JUMP i Malmø
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/jump-trampolinpark</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.0618099,55.5669568,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Extremezone AB</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund kan du gå 2 personer ind for ens pris hos Extremezone i Malmø<br><br>url: https://www.oresundsbron.com/da/club/extremezone]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund kan du gå 2 personer ind for ens pris hos Extremezone i Malmø
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/extremezone</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.0248092,55.6076596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bornholms Rovfugleshow</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 20% på entré hos Bornholms Rovfugleshow.<br><br>url: https://www.oresundsbron.com/da/club/bornholms-rovfugleshow]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du 20% på entré hos Bornholms Rovfugleshow.
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/bornholms-rovfugleshow</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.8049266,55.1370468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Falkenberg Strandbad</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du op til 20% rabat på et spaophold med "Ivory Spa Experience" for to personer på Falkenberg Strandbad<br><br>url: oresundsbron.com/da/club/falkenberg-strandbad]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value><![CDATA[Med CLUB Øresund får du op til 20% rabat på et spaophold med "Ivory Spa Experience" for to personer på Falkenberg Strandbad
+]]></value>
+          </Data>
+          <Data name="url">
+            <value>oresundsbron.com/da/club/falkenberg-strandbad</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.495246,56.8886631,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>That VR Thing</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund sparer du 20% på alle spil hos That VR Thing i Malmø<br><br>url: https://www.oresundsbron.com/da/club/that-vr-thing]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund sparer du 20% på alle spil hos That VR Thing i Malmø
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/that-vr-thing</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.0024202,55.5959685,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grand Hotel Lund</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 20% rabat på overnatning hos Grand Hotel.<br><br>url: https://www.oresundsbron.com/da/club/grand-hotel-i-lund]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du 20% rabat på overnatning hos Grand Hotel.
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/grand-hotel-i-lund</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.1890138,55.7038523,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Leklandsfabriken AB</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund kan du gå 2 for 1 hos Leklandsfabriken.<br><br>url: https://www.oresundsbron.com/da/club/leklandsfabriken]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund kan du gå 2 for 1 hos Leklandsfabriken.
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/leklandsfabriken</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.9892872,55.7695616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Åhléns City</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 20% rabat på en valgfri vare hos Åhléns City Malmö<br><br>url: https://www.oresundsbron.com/da/club/ahlens-city]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du 20% rabat på en valgfri vare hos Åhléns City Malmö
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/ahlens-city</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.001105,55.6039254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cervera</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund sparer du 20% på en stor del af sortimentet hos Cervera.<br><br>url: https://www.oresundsbron.com/da/club/cervera]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund sparer du 20% på en stor del af sortimentet hos Cervera.
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/cervera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.0043571,55.603477,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cervera</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund sparer du 20% på en stor del af sortimentet hos Cervera.<br><br>url: https://www.oresundsbron.com/da/club/cervera]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund sparer du 20% på en stor del af sortimentet hos Cervera.
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/cervera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.0042864,55.5800689,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cervera</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund sparer du 20% på en stor del af sortimentet hos Cervera.<br><br>url: https://www.oresundsbron.com/da/club/cervera]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund sparer du 20% på en stor del af sortimentet hos Cervera.
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/cervera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.9727504,55.5651567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cervera</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund sparer du 20% på en stor del af sortimentet hos Cervera.<br><br>url: https://www.oresundsbron.com/da/club/cervera]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund sparer du 20% på en stor del af sortimentet hos Cervera.
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/cervera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.1567722,55.7146934,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zushi</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 20% rabat på alt mad og alkoholfrie drikkevarer søndag til torsdag hos Zushi i Malmø.<br><br>url: https://www.oresundsbron.com/da/club/zushi]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du 20% rabat på alt mad og alkoholfrie drikkevarer søndag til torsdag hos Zushi i Malmø.
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/zushi</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.010778,55.6083791,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ceramic and Me Malmö</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund sparer du op til 50% på både krus og maling hos Ceramic and Me.<br><br>url: https://www.oresundsbron.com/da/club/ceramic-and-me]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund sparer du op til 50% på både krus og maling hos Ceramic and Me.
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/ceramic-and-me</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.0074257,55.6039459,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Team Sportia</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 20% rabat på dit køb i Team Sportia i Emporia.<br><br>url: https://www.oresundsbron.com/da/club/team-sportia]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du 20% rabat på dit køb i Team Sportia i Emporia.
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/team-sportia</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.9724831,55.5643365,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quality Hotel View</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du både 47% rabat på opholdet samt 500 SEK at shoppe for i Emporia.<br><br>url: https://www.oresundsbron.com/da/club/quality-hotel-view]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du både 47% rabat på opholdet samt 500 SEK at shoppe for i Emporia.
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/quality-hotel-view</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.976095,55.5621912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Weinbergs hotel</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund sparer du op til 50% på pakken "For the Lovers" hos Weinbergs Hotell på Idala Gård.<br><br>url: https://www.oresundsbron.com/da/club/weinbergs-hotell]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value><![CDATA[Med CLUB Øresund sparer du op til 50% på pakken "For the Lovers" hos Weinbergs Hotell på Idala Gård.
+]]></value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/weinbergs-hotell</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.2273267,55.3897883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Restaurang VYN</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 20% rabat på en Private Dining hos VYN<br><br>url: https://www.oresundsbron.com/da/club/vyn-restaurant]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du 20% rabat på en Private Dining hos VYN
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/vyn-restaurant</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.3130038,55.4961937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ICA Kvantum Emporia</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 5% rabat på alle varer i ICA Malmborgs i Emporia.<br><br>url: https://www.oresundsbron.com/da/club/ica-kvantum-i-emporia]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du 5% rabat på alle varer i ICA Malmborgs i Emporia.
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/ica-kvantum-i-emporia</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.9724938,55.5642658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pepperholm</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund sparer du 20% på dit køb hos Butik Pepperholm i Malmø.<br><br>url: https://www.oresundsbron.com/da/club/pepperholm]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund sparer du 20% på dit køb hos Butik Pepperholm i Malmø.
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/pepperholm</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.9971705,55.6065343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hestraviken hotell och spa</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund sparer du 20% på spaopholdet "En magisk upplevelse" hos Riverside Spa på Hestraviken<br>url: https://www.oresundsbron.com/da/club/riverside-spa]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value><![CDATA[Med CLUB Øresund sparer du 20% på spaopholdet "En magisk upplevelse" hos Riverside Spa på Hestraviken]]></value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/riverside-spa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.6269079,57.4185133,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemmakväll</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 20% rabat på bland selv-slik i Hemmakväll i Emporia og<br>Triangeln<br><br>url: https://www.oresundsbron.com/da/club/hemmakvall]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du 20% rabat på bland selv-slik i Hemmakväll i Emporia og
+Triangeln
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/hemmakvall</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.9722127,55.5647071,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Villa Brunnby</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund sparer du 36% på "Vingårdsbesøg på den prisbelønnede Kullabergsvingård<br><br>url: https://www.oresundsbron.com/da/club/villa-brunnby]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value><![CDATA[Med CLUB Øresund sparer du 36% på "Vingårdsbesøg på den prisbelønnede Kullabergsvingård
+]]></value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/villa-brunnby</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.5675197,56.2620209,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Norrvikens trädgårdar</name>
+        <description><![CDATA[Tilbud: <br>url: https://www.oresundsbron.com/da/club/norrvikens-tradgaard]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value/>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/norrvikens-tradgaard</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.7979674,56.4459664,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kulturen i Lund</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 50% rabat på entré til Kulturen i Lund. Rabatten gælder for 2 voksne.<br>url: https://www.oresundsbron.com/da/club/kulturen-i-lund]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du 50% rabat på entré til Kulturen i Lund. Rabatten gælder for 2 voksne.</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/kulturen-i-lund</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.1964699,55.7045801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Iittala Rörstrand Fiskars Outlet</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 100 SEK i rabat, pr. 500 SEK du handler for hos en af disse outlet-butikker i Sverige.<br><br>url: oresundsbron.com/da/club/iittala-roerstrand-fiskars-outlet]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du 100 SEK i rabat, pr. 500 SEK du handler for hos en af disse outlet-butikker i Sverige.
+</value>
+          </Data>
+          <Data name="url">
+            <value>oresundsbron.com/da/club/iittala-roerstrand-fiskars-outlet</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.5552778,56.2125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Iittala Rörstrand Fiskars Outlet</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 100 SEK i rabat, pr. 500 SEK du handler for hos en af disse outlet-butikker i Sverige.<br><br>url: oresundsbron.com/da/club/iittala-roerstrand-fiskars-outlet]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du 100 SEK i rabat, pr. 500 SEK du handler for hos en af disse outlet-butikker i Sverige.
+</value>
+          </Data>
+          <Data name="url">
+            <value>oresundsbron.com/da/club/iittala-roerstrand-fiskars-outlet</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.1597634,56.5519641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Iittala Rörstrand Fiskars Outlet</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 100 SEK i rabat, pr. 500 SEK du handler for hos en af disse outlet-butikker i Sverige.<br><br>url: oresundsbron.com/da/club/iittala-roerstrand-fiskars-outlet]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du 100 SEK i rabat, pr. 500 SEK du handler for hos en af disse outlet-butikker i Sverige.
+</value>
+          </Data>
+          <Data name="url">
+            <value>oresundsbron.com/da/club/iittala-roerstrand-fiskars-outlet</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            15.3944496,56.850742,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sofiero Slott och Slottsträdgård</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 20% rabat på entré til Sofiero Slott og Slottspark.<br><br>url: oresundsbron.com/da/club/sofiero-slott]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du 20% rabat på entré til Sofiero Slott og Slottspark.
+</value>
+          </Data>
+          <Data name="url">
+            <value>oresundsbron.com/da/club/sofiero-slott</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.6596384,56.083939,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apoteket Mobilia</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 20% rabat hos Apoteket i Mobilia<br><br>url: https://www.oresundsbron.com/da/club/apoteket-mobilia]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du 20% rabat hos Apoteket i Mobilia
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/apoteket-mobilia</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.0029761,55.5799937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apoteket Hansa</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 20% rabat på hele købet i Apoteket i Hansa når du køber for mindst 500 SEK.<br>https://www.oresundsbron.com/da/club/apoteket-hansa <br>url: https://www.oresundsbron.com/da/club/apoteket-hansa]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du 20% rabat på hele købet i Apoteket i Hansa når du køber for mindst 500 SEK.
+https://www.oresundsbron.com/da/club/apoteket-hansa </value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/apoteket-hansa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.0043702,55.6032134,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apoteket Emporia</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 20% rabat på hele købet i Apoteket i Emporia når du køber for mindst 500 SEK.<br>url: https://www.oresundsbron.com/da/club/apoteket-emporia ]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du 20% rabat på hele købet i Apoteket i Emporia når du køber for mindst 500 SEK.</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/apoteket-emporia </value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.9746836,55.5634943,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>XXXLutz möbelvaruhus Malmö</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund sparer du op til 50% hos XXXLutz.<br>url: https://www.oresundsbron.com/da/club/xxxlutz-mobler]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund sparer du op til 50% hos XXXLutz.</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/xxxlutz-mobler</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.0592663,55.5994426,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Best Western Plus Hotel Noble House</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 35% rabat på et ophold for to personer på Best Western Plus Hotel Noble House i Malmø<br>url: https://www.oresundsbron.com/da/club/noble-house]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du 35% rabat på et ophold for to personer på Best Western Plus Hotel Noble House i Malmø</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/noble-house</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.9997586,55.6036506,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Elite Hotel Esplanade</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du op til 40% rabat på et ophold hos Elite Hotel Esplanade i Malmø<br><br>url: https://www.oresundsbron.com/da/club/elite-hotel-esplanade<br>]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du op til 40% rabat på et ophold hos Elite Hotel Esplanade i Malmø
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/elite-hotel-esplanade
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.9979582,55.6057245,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Stiftelsen Wanås Utställningar "Wanås Konst"]]></name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 20% rabat på entréen.<br><br>url: https://www.oresundsbron.com/da/club/wanaas-konst]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du 20% rabat på entréen.
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/wanaas-konst</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.0463501,56.1872809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kiviks Hotell Konferens och Spa</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 20% rabat på "Spapaket Landa"<br><br>url: https://www.oresundsbron.com/da/club/kiviks-hotell]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value><![CDATA[Med CLUB Øresund får du 20% rabat på "Spapaket Landa"
+]]></value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/kiviks-hotell</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.2189216,55.6881752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FOREX</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 2% rabat på den gældende vekselkurs.<br><br><br>url: https://www.oresundsbron.com/da/club/forex-dk]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du 2% rabat på den gældende vekselkurs.
+
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/forex-dk</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.0001618,55.6089756,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FOREX</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 2% rabat på den gældende vekselkurs.<br><br><br>url: https://www.oresundsbron.com/da/club/forex-dk]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du 2% rabat på den gældende vekselkurs.
+
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/forex-dk</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.3646046,55.5404966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FOREX</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 2% rabat på den gældende vekselkurs.<br><br>url: https://www.oresundsbron.com/da/club/forex-dk]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du 2% rabat på den gældende vekselkurs.
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/forex-dk</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.5654411,55.6730401,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FOREX</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 2% rabat på den gældende vekselkurs.<br><br>url: https://www.oresundsbron.com/da/club/forex-dk]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du 2% rabat på den gældende vekselkurs.
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/forex-dk</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.64552,55.62882,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Destination Snogeholm</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du op til 40% rabat på en hytte hos Destination Snogeholm.<br><br>url: https://www.oresundsbron.com/da/club/destination-snogeholm]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du op til 40% rabat på en hytte hos Destination Snogeholm.
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/destination-snogeholm</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.7168372,55.5661265,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Granit</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 20% rabat på hele dit køb på minimum 500 SEK hos Granit i Malmø og Lund.<br>url: oresundsbron.com/da/club/granit]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du 20% rabat på hele dit køb på minimum 500 SEK hos Granit i Malmø og Lund.</value>
+          </Data>
+          <Data name="url">
+            <value>oresundsbron.com/da/club/granit</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.001103,55.6052495,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Granit</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 20% rabat på hele dit køb på minimum 500 SEK hos Granit i Malmø og Lund.<br>url: https://www.oresundsbron.com/da/club/granit]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du 20% rabat på hele dit køb på minimum 500 SEK hos Granit i Malmø og Lund.</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/granit</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.1911839,55.7032792,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>XXXLutz restaurang</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund sparer du 30% på XXXL Schnitzel hos XXXLutz Restaurant.<br><br>url: https://www.oresundsbron.com/da/club/xxxlutz-restaurant<br>]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund sparer du 30% på XXXL Schnitzel hos XXXLutz Restaurant.
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/xxxlutz-restaurant
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.0588618,55.5988996,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Restaurang Akropolis</name>
+        <description><![CDATA[Tilbud: Som medlem i CLUB Øresund får du 20% rabat på retten Akropolis Special fra søndag-torsdag.<br><br>url: https://www.oresundsbron.com/da/club/restaurant-akropolis]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Som medlem i CLUB Øresund får du 20% rabat på retten Akropolis Special fra søndag-torsdag.
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/restaurant-akropolis</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.9998822,55.5976722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Thott's Restaurant]]></name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 20 % rabat på aftenmenuen.<br><br>url: https://www.oresundsbron.com/da/club/thotts-restaurant]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du 20 % rabat på aftenmenuen.
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/thotts-restaurant</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.007779,55.607659,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Gothia Towers & Upper House]]></name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du:<br>10% rabat på overnatning hos Hotel Gothia Towers samt Upper House<br>20% rabat på overnatning ved kampagner som vinterferie, påskeferie, juleferie og efterårsferie"<br><br>url: https://www.oresundsbron.com/da/club/gothia-towers]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value><![CDATA[Med CLUB Øresund får du:
+10% rabat på overnatning hos Hotel Gothia Towers samt Upper House
+20% rabat på overnatning ved kampagner som vinterferie, påskeferie, juleferie og efterårsferie"
+]]></value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/gothia-towers</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            11.9890124,57.6973908,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Små Hjärtan Barn & Tonårskläder AB]]></name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund sparer du 50% på Hunter gummistøvler og 20% på jeans hos Små Hjärtan.<br><br>url: https://www.oresundsbron.com/da/club/smahjartan]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund sparer du 50% på Hunter gummistøvler og 20% på jeans hos Små Hjärtan.
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/smahjartan</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.9543761,55.4200083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LEAP Indoor Skydiving</name>
+        <description><![CDATA[Tilbud: Som medlem af CLUB Øresund får du 25% rabat på både "Flygpaket Small", "Flygpaket Medium" og "Flygpaket Large".<br>url: https://www.oresundsbron.com/da/club/LEAP]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value><![CDATA[Som medlem af CLUB Øresund får du 25% rabat på både "Flygpaket Small", "Flygpaket Medium" og "Flygpaket Large".]]></value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/LEAP</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.9750289,55.5666007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Rallarhustruns veranda & logi]]></name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 20% rabat på "Bistropaket" hos Rallarhustruns Veranda & Logi.<br><br>url: https://www.oresundsbron.com/da/club/rallarhustruns-veranda-logi]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value><![CDATA[Med CLUB Øresund får du 20% rabat på "Bistropaket" hos Rallarhustruns Veranda & Logi.
+]]></value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/rallarhustruns-veranda-logi</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.735322,56.0767055,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ICA Kvantum Malmborgs Mobilia</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 10% rabat på dit samlede køb i ICA Malmborgs i shoppingcentert Mobilia når du køber for mindst 500 SEK.<br>url: https://www.oresundsbron.com/da/club/ica-malmborgs-mobilia]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du 10% rabat på dit samlede køb i ICA Malmborgs i shoppingcentert Mobilia når du køber for mindst 500 SEK.</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/ica-malmborgs-mobilia</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.0043669,55.5799711,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Malmö Airport</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 25% rabat på parkering hos Malmö Airport<br><br>url: oresundsbron.com/da/club/malmo-airport]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du 25% rabat på parkering hos Malmö Airport
+</value>
+          </Data>
+          <Data name="url">
+            <value>oresundsbron.com/da/club/malmo-airport</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.3703395,55.5347595,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ICA Supermarket Hansa</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 10% rabat på alle varer i ICA Hansa.<br><br>url: https://www.oresundsbron.com/da/club/ica-hansa]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du 10% rabat på alle varer i ICA Hansa.
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/ica-hansa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.00362,55.60334,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Brösarps Gästgifveri & SPA]]></name>
+        <description><![CDATA[Tilbud: Fra d. 1. januar - 30. december 2024 får du op til 20% rabat:<br>url: https://www.oresundsbron.com/da/club/brosarps-gastgifveri-spa]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Fra d. 1. januar - 30. december 2024 får du op til 20% rabat:</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/brosarps-gastgifveri-spa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.1037136,55.7253181,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clarion Collection Hotel Temperance</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 24% rabat på et ophold hos Clarion Collection Hotel Temperance<br><br>url: https://www.oresundsbron.com/da/club/clarion-collection-hotel-temperance<br>]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du 24% rabat på et ophold hos Clarion Collection Hotel Temperance
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/clarion-collection-hotel-temperance
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.9984436,55.6037432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hotel Carlshamn</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund sparer du op til 40% på udvalgte pakker hos Hotel Carlshamn.<br>url: https://www.oresundsbron.com/da/club/hotel-carlshamn]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund sparer du op til 40% på udvalgte pakker hos Hotel Carlshamn.</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/hotel-carlshamn</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.862382,56.1680744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kreativum Science Center</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 20% rabat på entréprisen til Kreativum for børnebilletter og voksenbilletter.<br>url: https://www.oresundsbron.com/da/club/kreativum-i-karlshamn]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du 20% rabat på entréprisen til Kreativum for børnebilletter og voksenbilletter.</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/kreativum-i-karlshamn</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.8523241,56.1946575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Funnys Äventyr</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du op til 33% rabat på entré til Funnys Äventyr i Malmø<br>url: https://www.oresundsbron.com/da/club/funnys-aventyr]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du op til 33% rabat på entré til Funnys Äventyr i Malmø</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/funnys-aventyr</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.0042968,55.5813062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Svaneholms slott</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du op til 50% rabat på entréen.<br><br>url: https://www.oresundsbron.com/da/club/svaneholms-slott]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du op til 50% rabat på entréen.
+</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/svaneholms-slott</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.478207,55.5007863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ICA Supermarket Ystad</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 10% hos ICA Supermarket i Ystad<br>url: https://www.oresundsbron.com/da/club/ica-ystad]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du 10% hos ICA Supermarket i Ystad</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/ica-ystad</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.8411839,55.4342878,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Jacy'z Hotel & Resort]]></name>
+        <description><![CDATA[Tilbud: CLUB Øresund giver dig 25% rabat på Jacy's Hotel i Göteborg.<br>url: https://www.oresundsbron.com/da/club/jacyz-hotel]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value><![CDATA[CLUB Øresund giver dig 25% rabat på Jacy's Hotel i Göteborg.]]></value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/jacyz-hotel</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            11.9934084,57.7056865,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mountain Lodge Branäs(Branäsberget)</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 25% rabat på overnatning i Mountain Lodge, Soltorget og Ski Lodge i ugerne 50-51, 2-5, samt 12-17 i sæsonen 2024/25.<br>url: https://www.oresundsbron.com/da/club/skisportsstedet-branas]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du 25% rabat på overnatning i Mountain Lodge, Soltorget og Ski Lodge i ugerne 50-51, 2-5, samt 12-17 i sæsonen 2024/25.</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/skisportsstedet-branas</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.9415632,60.6480947,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Best Western Plus Hus 57</name>
+        <description><![CDATA[Tilbud: Med CLUB Øresund får du 20% rabat på et ophold hos HUS 57.<br>url: https://www.oresundsbron.com/da/club/best-western-plus-hus-57]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Tilbud">
+            <value>Med CLUB Øresund får du 20% rabat på et ophold hos HUS 57.</value>
+          </Data>
+          <Data name="url">
+            <value>https://www.oresundsbron.com/da/club/best-western-plus-hus-57</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.8660541,56.2465659,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
